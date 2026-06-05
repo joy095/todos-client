@@ -1,4 +1,3 @@
-// features/auth/hooks/use-auth.ts
 import { useQuery } from "@tanstack/react-query";
 import { authClient } from "@/lib/auth-client";
 
